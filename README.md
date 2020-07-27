@@ -1,2 +1,2 @@
 # Employee-Management-System
-Employee Management System implemented in Angular
+Employee Management System implemented in Angular.
